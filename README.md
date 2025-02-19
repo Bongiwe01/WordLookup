@@ -32,10 +32,10 @@ The **Word Lookup Web App** allows users to search for words, view their meaning
     cd src/main/java/wordlookup/spa
 
 4. Compile and Run the backend server
+    ```bash
     javac Server.java
     java wordlookup.spa.Server
 
-    ```
 
 5. Open the app in your browser:
     - Navigate to `http://localhost:5050` to view the app.
