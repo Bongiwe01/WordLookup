@@ -19,20 +19,23 @@ The **Word Lookup Web App** allows users to search for words, view their meaning
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Bongiwe01/WordLook-WebApp.git
+    git clone https://github.com/Bongiwe01/WordLookUp-WebApp.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd word-lookup-web-app
+    cd WordLookUp-WebApp
     ```
 
 3. Install the necessary dependencies for the backend:
     ```bash
     # Navigate to the backend directory
-    cd backend
-    # Run the backend server
-    java -jar server.jar
+    cd src/main/java/wordlookup/spa
+
+    # Compile and Run the backend server
+    javac Server.java
+    java wordlookup.spa.Server
+
     ```
 
 4. Open the app in your browser:
