@@ -27,20 +27,25 @@ The **Word Lookup Web App** allows users to search for words, view their meaning
     cd WordLookUp-WebApp
     ```
 
-3. Install the necessary dependencies for the backend:
+3. Navigate to the backend directory:
     ```bash
-    # Navigate to the backend directory
     cd src/main/java/wordlookup/spa
 
-    # Compile and Run the backend server
+4. Compile and Run the backend server
     javac Server.java
     java wordlookup.spa.Server
 
     ```
 
-4. Open the app in your browser:
+5. Open the app in your browser:
     - Navigate to `http://localhost:5050` to view the app.
 
 ## 📝 Usage
 - Enter a word in the search bar.
 - The app will display the meaning and provide pronunciation support.
+
+## 🚧 Improvements & Future Work
+- Add support for multiple languages.
+- Improve APIs for more accurate and comprehensive synonym/antonym results.
+- Include a history feature to track previous word searches.
+- Improve UI/UX for a more polished look.
