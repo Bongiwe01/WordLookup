@@ -1,4 +1,4 @@
-package wethinkcode.spa;
+package wordlookup.spa;
 
 /*
  ** DO NOT CHANGE!!
