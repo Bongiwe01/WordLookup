@@ -31,12 +31,12 @@ The **Word Lookup Web App** allows users to search for words, view their meaning
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Bongiwe01/WordLookUp_WebApp.git
+    git clone https://github.com/Bongiwe01/WordLookUp.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd WordLookUp_WebApp
+    cd WordLookUp
     ```
 
 3. Navigate to the backend directory:
